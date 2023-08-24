@@ -1,1 +1,1 @@
-# Question-quality-detectio-model
+# Question-quality-detection-model
